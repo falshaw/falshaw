@@ -1,6 +1,6 @@
 # Nick Falshaw
 
-Network and firewall security engineer. Palo Alto first, plus Cisco, Fortinet and F5. I plan and run firewall migrations and change programmes for large enterprises, and I build secure, local-first AI tooling around that work.
+Network and firewall security engineer. Palo Alto first. I plan and run firewall migrations and change programmes for large enterprises, and I build secure, local-first AI tooling around that work.
 
 **Certifications:** AZ-700, AZ-500, SC-100, SC-200, AI-102, Terraform Associate, CEH, ISO 27001 Lead Implementer, TOGAF 9
 
