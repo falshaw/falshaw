@@ -23,6 +23,5 @@ Network and firewall security engineer. Palo Alto first. I plan and run firewall
 ## Tools
 
 - [local-voice](https://github.com/falshaw/local-voice): offline voice dictation for Windows.
-- [call-whisperer](https://github.com/falshaw/call-whisperer): live meeting copilot.
 
 More at [falshaw.de](https://falshaw.de).
