@@ -7,6 +7,7 @@ Network and firewall security engineer. Palo Alto first. I plan and run firewall
 ## Network and firewall
 
 - [netlab](https://github.com/falshaw/netlab): routing lab in GitHub Codespaces. FRRouting for OSPF, BGP and MPLS, plus cheat sheets.
+- [netmap](https://github.com/falshaw/netmap): network discovery and topology mapping (SNMP, nmap, ARP) with draw.io export.
 - [firewall-agents](https://github.com/falshaw/firewall-agents): vendor expert personas, migration playbooks and study notes for firewall engineers using Claude Code.
 
 ## Secure, private AI
