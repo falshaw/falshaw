@@ -21,6 +21,7 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - [fwmigrate](https://github.com/falshaw/fwmigrate): firewall rule-base migration between vendors: parse, find shadowed and over-permissive rules, translate, review, export.
 - [netmap](https://github.com/falshaw/netmap): network discovery and topology mapping (SNMP, nmap, ARP) with draw.io export.
 - [firewall-agents](https://github.com/falshaw/firewall-agents): vendor expert personas, migration playbooks and study notes for firewall engineers using Claude Code.
+- [netlab](https://github.com/falshaw/netlab): browser-based routing lab (containerlab + FRR in GitHub Codespaces): BGP, OSPF, IS-IS, MPLS, DDoS edge defence, every lab deploy-checked in CI.
 
 ## Claude Code skills
 
