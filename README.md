@@ -15,6 +15,7 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - [secure-private-ai](https://github.com/falshaw/secure-private-ai): authenticated LLM gateway with allowlist and rate limits, local models for bulk text, shared JWT auth.
 - [vaultic](https://github.com/falshaw/vaultic): private AI assistant over your own documents, answered by a local model with citations and an audit trail.
 - [complibot](https://github.com/falshaw/complibot): drafts answers to vendor security questionnaires from your own knowledge base on a local LLM, with human review before export.
+- [local-voice](https://github.com/falshaw/local-voice): offline voice dictation for Windows: hotkey, speak, text typed into any window. Whisper via ONNX, nothing leaves the PC.
 
 ## Network and firewall
 
