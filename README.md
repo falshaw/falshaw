@@ -21,6 +21,7 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 
 - [fwmigrate](https://github.com/falshaw/fwmigrate): firewall rule-base migration between vendors: parse, find shadowed and over-permissive rules, translate, review, export.
 - [netmap](https://github.com/falshaw/netmap): network discovery and topology mapping (SNMP, nmap, ARP) with draw.io export.
+- [fleet](https://github.com/falshaw/fleet): dashboard for the Docker containers on one host: health, CPU, memory, database sizes, logs, restarts and Telegram alerts.
 
 ## Claude Code skills
 
