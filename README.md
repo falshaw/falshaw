@@ -8,6 +8,7 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - **Cloud & architecture:** AWS Certified Security – Specialty, AWS Certified Cloud Practitioner, HashiCorp Terraform Associate, TOGAF 9, ITIL V3 Foundation
 - **Security:** ISO/IEC 27001 Lead Implementer (Certi-Trust, PECB), CEH
 - **Cisco:** CCIE Security (written), CCSP, CCNP, CCDP, CCNA, Firewall · IPS · Information Security Specialist, SCYBER
+- **Palo Alto Networks (training):** EDU-201, EDU-205, EDU-311, EDU-121
 - **Fortinet:** NSE 4 – FortiOS 7.6 Administrator
 - **Juniper / Check Point / F5:** JNCIS-FWV, JNCIA-FWV, CCSA, CCSE, BIG-IP LTM, GTM, F5 Product Consultant, FirePass
 
