@@ -32,5 +32,4 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - [netmap](https://github.com/falshaw/netmap): network discovery and topology mapping (SNMP, nmap, ARP) with draw.io export.
 - [fleet](https://github.com/falshaw/fleet): dashboard for the Docker containers on one host: health, CPU, memory, database sizes, logs, restarts and Telegram alerts.
 
-
 More at [falshaw.de](https://falshaw.de).
