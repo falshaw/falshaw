@@ -18,6 +18,11 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - [local-voice](https://github.com/falshaw/local-voice): offline voice dictation for Windows: hotkey, speak, text typed into any window. Whisper via ONNX, nothing leaves the PC.
 - [ai-command-center](https://github.com/falshaw/ai-command-center): one local screen for a self-hosted app fleet: 3D fleet globe with start buttons, today and tasks, and a Claude Code terminal inside, locked to localhost.
 
+## Local-first personal apps
+
+- [cookingstudio](https://github.com/falshaw/cookingstudio): cooking school and private health tracker in one: step-by-step recipes, week plans against diet rules, shopping list, food log, nutrient gaps, CGM glucose, weight and lab trends. Local AI via Ollama.
+- [spendtrack](https://github.com/falshaw/spendtrack): personal finance tracker: statement import, budgets, net worth and read-only Trading 212 + Interactive Brokers investments. Receipts read by a local vision model.
+
 ## Network and firewall
 
 - [fwmigrate](https://github.com/falshaw/fwmigrate): firewall rule-base migration between vendors: parse, find shadowed and over-permissive rules, translate, review, export.
