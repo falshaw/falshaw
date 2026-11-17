@@ -19,6 +19,7 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - [intelbriefs](https://github.com/falshaw/intelbriefs): meeting research briefs: web search, then a local model writes who they are, talking points and risk signals.
 - [local-voice](https://github.com/falshaw/local-voice): offline voice dictation for Windows: hotkey, speak, text typed into any window. Whisper via ONNX, nothing leaves the PC.
 - [ai-command-center](https://github.com/falshaw/ai-command-center): one local screen for a self-hosted app fleet: 3D fleet globe with start buttons, today and tasks, and a Claude Code terminal inside, locked to localhost.
+- [claude-security-skills](https://github.com/falshaw/claude-security-skills): audit skills for containers, self-hosted apps, dependencies, GitHub exposure and public-site PII leaks.
 
 ## Local-first personal apps
 
@@ -31,10 +32,5 @@ I build AI systems, then I secure them. 15 self-hosted AI apps (agents, RAG pipe
 - [netmap](https://github.com/falshaw/netmap): network discovery and topology mapping (SNMP, nmap, ARP) with draw.io export.
 - [fleet](https://github.com/falshaw/fleet): dashboard for the Docker containers on one host: health, CPU, memory, database sizes, logs, restarts and Telegram alerts.
 
-## Claude Code skills
-
-- [claude-security-skills](https://github.com/falshaw/claude-security-skills): audit skills for containers, self-hosted apps, dependencies, GitHub exposure and public-site PII leaks.
-- [blog-pipeline](https://github.com/falshaw/blog-pipeline): topic pick to fact-checked, bilingual, live post on static sites.
-- [claude-wrap](https://github.com/falshaw/claude-wrap): end-of-session wrap: summary, task update, memory hygiene, verified backup, handoff.
 
 More at [falshaw.de](https://falshaw.de).
